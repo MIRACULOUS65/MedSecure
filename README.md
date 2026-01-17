@@ -7,13 +7,12 @@
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 [![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)](https://ipfs.tech/)
 
-## 🎥 Project Demo
 
 ## 🎥 Project Demo
-
-[![AeroSense Demo Video](./dr/projects/dr-frontend-backup/src/assets/image.png)](https://drive.google.com/file/d/1CYyc0TTMR8W4ZJdOHXtQXgIJN9JYrsrK/preview)
 
 _Click the image above to watch the full demo video._
+
+[![AeroSense Demo Video](./dr/projects/dr-frontend-backup/src/assets/image.png)](https://drive.google.com/file/d/1CYyc0TTMR8W4ZJdOHXtQXgIJN9JYrsrK/preview)
 
 
 _Click the image above to watch the full demo video._
