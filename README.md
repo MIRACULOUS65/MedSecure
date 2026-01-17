@@ -9,7 +9,12 @@
 
 ## 🎥 Project Demo
 
-[![AeroSense Demo Video](./dr/projects/dr-frontend-backup/src/assets/image.png)]([./dr/projects/dr-frontend-backup/src/assets/MedSecure.mp4](https://drive.google.com/file/d/1CYyc0TTMR8W4ZJdOHXtQXgIJN9JYrsrK/view?usp=sharing))
+## 🎥 Project Demo
+
+[![AeroSense Demo Video](./dr/projects/dr-frontend-backup/src/assets/image.png)](https://drive.google.com/file/d/1CYyc0TTMR8W4ZJdOHXtQXgIJN9JYrsrK/preview)
+
+_Click the image above to watch the full demo video._
+
 
 _Click the image above to watch the full demo video._
 
