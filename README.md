@@ -7,6 +7,13 @@
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 [![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)](https://ipfs.tech/)
 
+<p align="center">
+  <a href="./Digital_Health_Record_and_Disease_Predictor\dr\projects\dr-frontend-backup\src\assets\MedSecure - Made with Clipchamp.mp4">
+    <img src="../Digital_Health_Record_and_Disease_Predictor/dr/projects/dr-frontend-backup/src/assets/image.png" alt="AeroSense Photo" width="700"/>
+  </a>
+</p>
+
+
 A full-stack decentralized application for securely storing and managing digital health records on the Algorand blockchain.
 
 ## 🌟 Project Overview
